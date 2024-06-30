@@ -1,0 +1,3 @@
+[submodule "themes/simpleclean"]
+	path = themes/simpleclean
+	url = https://github.com/elliotdes/simpleclean
