@@ -1,0 +1,12 @@
+baseURL = 'https://elliotdes.github.io/'
+languageCode = 'en-us'
+theme = "simpleclean"
+title = 'elliotdes'
+
+[params]
+[params.author]
+name = 'elliotdes'
+
+[services]
+[services.googleAnalytics]
+ID = 'G-HNEYSE6EX8'
