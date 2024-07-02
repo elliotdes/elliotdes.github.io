@@ -1,9 +1,9 @@
 +++
-title = 'Rolling: Integration Tests With SQLAlchemy'
+title = 'Testing against the database with SQLAlchemy, pytest, and a factory'
 date = 2024-06-30T14:38:52+01:00
 draft = false
 tags = ["python", "testing", "sqlalchemy"]
-summary = 'Writing integration tests in Python using SQLAlchemy.'
+summary = 'A pattern for writing database integration tests in Python.'
 +++
 
 When I am testing my code, I want to know that it is going to work against the production database.
