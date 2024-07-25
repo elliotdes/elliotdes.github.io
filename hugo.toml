@@ -3,6 +3,8 @@ languageCode = 'en-us'
 theme = "simpleclean"
 title = 'elliotdes'
 
+ignoreFiles = ["themes/simpleclean/content/.*"]
+
 [params]
 [params.author]
 name = 'elliotdes'
